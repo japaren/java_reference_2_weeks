@@ -1,0 +1,4 @@
+Source : Java The Complete Reference 11th Edition by Herbert Schildt;
+Methodology : Successfully learn at least 2-3 chapters a day;
+Goal : Learn the core concepts within the books to an intuitive level within 14 days;
+Learning Measurement: Recall information -> Understand concepts -> Apply knowledge in mini-projects;

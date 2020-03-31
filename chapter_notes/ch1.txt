@@ -1,0 +1,24 @@
+Chapter I : The History and Evolution of Java
+
+Keywords: Bytecode, JVM, JRE ,sandbox, developed as interpreted language, HotSpot technology, JIT, ahead-of-time support, applets, deprecated, Java Web Start, removed, servlets, cgi, major use, buzzwords
+
+Most of the historical points have been skipped, and I've outlined the major ideas here:
+
+*First we have the Concept of Bytecode: 
+The Bytecode is the output of a Java COMPILER which is merely a set of instructions(optimzed) that only a JVM(Part of JRE) can INTERPRET
+
+... This is the key point that makes java PORTABLE and SECURE since any Java Program can be ran in any System with JRE, and JVM can create a restricted execution environment called SANDBOX preventing unrestricted accesss to the machine.
+
+... To get a boost in performance you could make use of HotSpot technology: JIT compiler for bytebode. This will make it so that some parts of the code are compiled whereas others are interpreted
+
+Applets and Java Web Start are deprecated since they are not supported anymore, although there are ways to still use them. I don't have the time to care, though.
+
+Understand servlet:
+Servlet is merely a small program to create dynamically generate content. This is also one of the major use of Java.
+
+*Research: The difference between Java Servlet and PHP.
+
+The buzzwords. I'm just rewritting them here, but I believe they will become intuitive by the end of the book anyway:
+Simple, Secure, Portable, Object-Oriented, Robust, Multithreaded, Achitecture-neutral, Interpreted, High performance, Disitributed, Dynamic.
+
+Granted, this is just giving an overview and will be expanded upon in the next chapter. Everything is quite abstract and there are a lot of technicalities that will only make sense once you actually learn some minor details.
