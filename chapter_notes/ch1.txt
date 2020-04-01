@@ -22,3 +22,5 @@ The buzzwords. I'm just rewritting them here, but I believe they will become int
 Simple, Secure, Portable, Object-Oriented, Robust, Multithreaded, Achitecture-neutral, Interpreted, High performance, Disitributed, Dynamic.
 
 Granted, this is just giving an overview and will be expanded upon in the next chapter. Everything is quite abstract and there are a lot of technicalities that will only make sense once you actually learn some minor details.
+
+* can't be ignored

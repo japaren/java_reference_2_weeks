@@ -1,0 +1,17 @@
+Chapter III : Data Types, Variables, and Arrays
+
+Keywords: strongly typed language, primitive types of data, unicode, underscore, dynamic initialization, scope, class, methods, type promotion, strkngs are objects
+
+Practical Competences: using the basic types of data, type conversion, arrays with unusual row x col sizes
+
+Skipped topics that could be important: Literals
+
+In short....
+
+Java is a strongly typed language, which is merely a fancy way to say data types have to be declared in order to initialize variables
+
+The primitive data types consist of byte, short, , int, float, double, boolean, char and long. I don't need to dig too deep into this because of the type promotion that Java uses where:
+byte, short and char are promoted to int regardless. Everything else is promoted upwards to accomodate the needs.
+
+*Java uses UNICODE
+*Dynamic initialization of variables is useful to shorten the code

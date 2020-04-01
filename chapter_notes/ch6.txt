@@ -1,0 +1,17 @@
+Chapter VI : Introducing Classes
+
+Keywords: "class is a template for an object, and an object is an instance of a class", instance variables, methods, member of the class, dot operator, allocate memory to object, constructor, encapsulation
+
+Pratical Competences: Initialize an object,  modify an instance variable within an object
+
+In short...
+ I'll just quote what was said earlier "class is a template for an object, and an object is an instance of a class". this means that an object is made of: Instance variables, a constructor(to initialize it's parameters) and methods.
+ The encapsulation is shown in java through the use of classes since you can only modify it's instance variables with the methods built in the class
+
+ Going a little bit deeper into the initialization of an object... You'd need to follow the syntax:
+ Typefile(the class name) varname;
+ varname = new Typefile();
+The short version is given by Typefile varname = new Typefile()
+Depending on the object you may need to include some args that should be made explicit in the constructor
+
+*Understand how encapsulation happens in Java

@@ -1,0 +1,14 @@
+Chapter II : An Overview of Java
+
+Keywords: key feature, OOP, process-oriented model, code acting on data, object-oriented programming, data controlling access to code, hierarchical abstraction, encapsulation, inheritance, polymorphism, case sensitive, the java keywords
+
+Practical Coompetences:  How to comment, how to print a message, how to print the values of variables, 'if' and 'for' control statements;
+
+In short:
+
+There are two main ways to organize a program, around it's data or around it's code. A process-oriented model will organize it around data, also known as code acting on data. A objected-oriented model will organize it around its code, also known as data controlling access to code. The main difference between them is that the former is easier to write but the latter is easier to mantian.
+
+*Understand the three big concepts of OOP and why they matter;
+// Those will be studied deeper later so you just need a superficial understanding for now
+
+*By the end of the book you need to make sure you know all of the java keywords of the table on pg. 98

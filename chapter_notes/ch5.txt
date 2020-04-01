@@ -1,0 +1,14 @@
+Chapter V : Control Statements
+
+
+Keywords: selection statements, iteratio statementsn,  Execption handling features will come later, jump statements
+
+Practical Cmompetences:  Obtain user input with System.in.read() + throws java.IOException, enhanced for
+
+In short...
+
+So this covers basic control over statement such as if-then-else, for, do, do while, continue, break, return and some others. This is the most basic aspect of any programming language therefore it will be used constantly decreasing the need to formulate an actual drill for this
+
+Tha said, exception handling is a feature to deal with the user being too dumb when a input is asked and will be covered later
+
+For now, try to understand how to use the enhanced for and if you don't know the other control statements

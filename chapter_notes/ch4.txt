@@ -1,0 +1,11 @@
+Chapter IV : Operators
+
+Keywords: arithmetic operators, bitwise operators, relational operators, boolean logical operators, the assignment operators, the ? operator,  operator precedence
+
+Skipped: Bitwise shifts ( I will come back for this if it's necessary as it seems pretty tricky to fully understand)
+
+In short...
+
+ Many of the topics are quite intuitive by nature
+ In a real world setting I'm assuming boolean can have some nice applications but I'm not so sure quite yet
+ The ? operator on the other hand is pretty interesting as a way to write if-then-else simple statements in a single line
